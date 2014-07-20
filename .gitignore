@@ -1,0 +1,11 @@
+var/*
+etc/*.template
+app/etc/*.template
+app/etc/local.xml
+*.sample
+/.idea
+/media/catalog
+/media/css
+/media/js
+/media/musicsongs
+/downloader/*.cfg
